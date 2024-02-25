@@ -1,0 +1,10 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cSpell.words": [
+        "cupertino",
+        "Navs",
+        "pngs",
+        "svgs"
+    ],
+    "cmake.sourceDirectory": "C:/administrative/projects/library_app/linux"
+}
